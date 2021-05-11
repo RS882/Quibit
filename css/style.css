@@ -2144,10 +2144,10 @@ body._lockF {
 
   .menu-footer__title._active {
     position: fixed;
-    width: calc(100% - 30px);
+    width: 100vw;
     background: #20003c;
     top: 0;
-    left: calc(50% - 30px);
+    left: 50%;
     height: 120px;
     -webkit-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
